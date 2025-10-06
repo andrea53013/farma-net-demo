@@ -1,0 +1,3 @@
+"scripts": {
+  "warnings": "ts-node scripts/warnings.ts"
+}
